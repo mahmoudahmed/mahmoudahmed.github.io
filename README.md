@@ -1,2 +1,3 @@
-# Mahmoud Ahmed - Full Stack Senior Java Developer
-![Building a Data-Driven App with AngularJS](MahmoudJava.jpg)
+# Mahmoud Ahmed
+## Full Stack Senior Java Developer
+![Java Developer](MahmoudJava.jpg)
