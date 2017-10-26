@@ -3,10 +3,11 @@
 ![Java Developer](mahmoud.png)
 ## Technical Skills:
 - Java / J2EE
-- JavaScript - NodeJS, jQuery
+- JavaScript - NodeJS - jQuery
+- JSON - HTML - CSS
 - Groovy - Apache Wicket
 - Spring Framework - Hibernate
-- WebService
+- Restful WebService - Soap
 - Maven - Confluence - Jira
 - IntelliJ - NetBeans - Eclipse
 - SQL - Databases
