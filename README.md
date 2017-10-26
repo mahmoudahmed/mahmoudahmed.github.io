@@ -1,3 +1,3 @@
 # Mahmoud Ahmed
 ## Full Stack Senior Java Developer
-![Java Developer](MahmoudJava.jpg)
+![Java Developer](mahmoud.png)
