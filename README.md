@@ -1,5 +1,5 @@
 # Mahmoud Ahmed
-## Full Stack Senior Java Developer
+## Full Stack Java Developer
 ![Java Developer](mahmoud.png)
 ## Technical Skills:
 - Java / J2EE
