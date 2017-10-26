@@ -10,4 +10,4 @@
 - Restful WebService - Soap
 - Maven - Confluence - Jira
 - IntelliJ - NetBeans - Eclipse
-- SQL - Databases
+- SQL - Databases (MySQL, SQL Server, Oracle)
